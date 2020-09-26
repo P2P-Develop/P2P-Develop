@@ -29,5 +29,5 @@ Members also have their own extra roles.
 
 -   **Translate** - [Potato1682]
 -   **Fix wrong japanese** - [lemonade19x]
--   **Increase jokes** - [peyang-Celeron], @Potato1682]
+-   **Increase jokes** - [peyang-Celeron], [Potato1682]
 -   **Automation** - [Potato1682]
