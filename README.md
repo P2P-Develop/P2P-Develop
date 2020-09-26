@@ -1,9 +1,10 @@
 <h1 align="center">Hello, it's P2P-Develop team! 👋</h1>
 
+<p align="center">We are a small development team of anonymous users!</p>
+
 ## Greetings
 
-We are a small development team of anonymous users!
-Each member works together to develop in different languages.
+Each member works together to develop in different languages.  
 We are looking for new members because there are still 3 people.
 
 ## Languages
