@@ -23,6 +23,7 @@ The organization is developing in different languages and frameworks, and each m
 -   **Javascript** - (Node.js) [Potato1682], (Browser) [peyang-Celeron]
 -   **HTML** and **CSS** - [Lemonade19x], [Potato1682]
 -   **Sass** - [Potato1682]
+-   **PHP** - [peyang-Celeron]
 -   **Python** - [peyang-Celeron], [Potato1682]
 -   **C** - [Potato1682]
 
